@@ -19,6 +19,7 @@ body {
 .navbar-brand {
   	margin-right: 0;
 	margin-left: 5px;
+	color: #000000;
 	font-weight: bold;
 	padding: 6px;
 	width: auto;
