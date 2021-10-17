@@ -19,12 +19,13 @@ body {
 .navbar-logo {
   	margin-right: 0;
 	margin-left: 5px;
+	color: #000000;
 	font-weight: bold;
 	padding: 6px;
-	background: #ffffff;
 	width: auto;
   	height: auto;
   	border-radius: 10px;
+	border: 2px solid #888888;
 }
   .navbar-brand img {
     height: 21px; }
