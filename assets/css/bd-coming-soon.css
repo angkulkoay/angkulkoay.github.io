@@ -1,39 +1,17 @@
 body {
   font-family: 'Karla', sans-serif;
-  /*background-image: url("../images/bg_comingsoon.jpg");*/
-	background: #F1F1F1;
+  background-image: url("../images/bg.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  color: #000000;
-  padding-bottom: 75px;
-	margin-left: 40px;}
+  color: #ffffff;
+  padding-bottom: 75px; }
   @media (min-width: 768px) {
     body {
-      padding-bottom: 110px;
-	  margin-left: 40px;} }
+      padding-bottom: 110px; } }
 
-.color_black
-{
-	color: #000000;
-}
-
-nav{
-	margin-bottom: 30px;
-}
-
-.navbar-logo {
-  	margin-right: 0;
-	margin-left: 5px;
-	color: #000000;
-	font-weight: bold;
-	padding: 6px;
-	width: auto;
-  	height: auto;
-  	border-radius: 10px;
-	border: 2px solid #888888;
-	text-decoration: none;
-}
+.navbar-brand {
+  margin-right: 0; }
   .navbar-brand img {
     height: 21px; }
 
@@ -41,10 +19,10 @@ nav{
   padding-top: 35px;
   padding-bottom: 35px; }
   .navbar-dark .navbar-text {
-    color: #000000;
+    color: #ffffff;
     opacity: 1;
     padding: 0 20px;
-    border-right: 1px solid #000000;
+    border-right: 1px solid #ffffff;
     font-size: 18px;
     font-weight: bold;
     text-align: center; }
@@ -57,47 +35,30 @@ nav{
 .page-title {
   font-size: 80px;
   font-weight: bold;
-	margin-top: -20px;
-  margin-bottom: 10px;}
+  margin-bottom: 6px; }
   @media (max-width: 767px) {
     .page-title {
       font-size: 35px;
-      margin-bottom: 15px; } }
+      margin-bottom: 14px; } }
 
 .page-description {
   max-width: 465px;
   font-size: 18px;
-	margin-left: 5px;}
+  margin-bottom: 59px; }
   @media (max-width: 767px) {
     .page-description {
-      font-size: 14px;} }
-
-.lottie_1
-{
-	margin-top: -110px;
-	margin-bottom: -110px;
-	margin-left: -35px;
-	width: 500px;
-	height: 500px;
-}@media (max-width: 767px) {
-    .lottie_1 {
-    width: 300px;
-	height: 300px;
-	margin-top: -70px;
-	margin-bottom: -60px;
-	margin-left: -20px;} }
+      font-size: 14px; } }
 
 p {
-  font-size: 18px;
-  margin-bottom: 21px; 
-	margin-left: 5px;}
+  font-size: 14px;
+  margin-bottom: 21px; }
 
 .footer-social-links .social-link {
   display: inline-block;
   text-align: center;
-  line-height: 55px;
-  width: 60px;
-  height: 60px;
+  line-height: 40px;
+  width: 40px;
+  height: 40px;
   border-radius: 50%;
   background-color: #ffffff;
   color: #000000;
@@ -109,10 +70,5 @@ p {
     text-decoration: none;
     background-color: #000000;
     color: #ffffff; }
-@media (max-width: 768px) {
-    .footer-social-links .social-link {
-   	line-height: 43px;
-  	width: 45px;
-  	height: 45px;} }
 
 /*# sourceMappingURL=bd-coming-soon.css.map */
